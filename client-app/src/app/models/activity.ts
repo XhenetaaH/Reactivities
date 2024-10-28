@@ -7,4 +7,4 @@ export interface Activity {
     city: string
     venue: string
   }
-  
+   
